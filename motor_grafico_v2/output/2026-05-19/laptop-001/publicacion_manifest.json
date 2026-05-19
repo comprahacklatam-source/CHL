@@ -24,8 +24,8 @@
     "CompraHack"
   ],
   "call_to_action": "Ver Oferta →",
-  "affiliate_url": "#",
-  "tracking_url": "#",
+  "affiliate_url": "https://ejemplo.com/tu-link-afiliado",
+  "tracking_url": "https://ejemplo.com/tu-link-afiliado",
   "assets": [
     {
       "formato": "feed",
@@ -36,14 +36,54 @@
       "size_bytes": 373633
     },
     {
-      "formato": "telegram",
-      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\telegram_1200x630.jpg",
-      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\telegram_1200x630.jpg",
-      "width": 1200,
-      "height": 630,
-      "size_bytes": 398284
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 609153
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 587129
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 450981
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 451667
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 449742
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 445789
     }
   ],
-  "generated_at": "2026-05-19T14:49:45",
+  "generated_at": "2026-05-19T14:51:11",
   "motor_version": "v2"
 }
