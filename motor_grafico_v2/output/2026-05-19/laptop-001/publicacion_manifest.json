@@ -49,7 +49,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\reel_1080x1920.jpg",
       "width": 1080,
       "height": 1920,
-      "size_bytes": 586858
+      "size_bytes": 585759
     },
     {
       "formato": "carrusel",
@@ -57,7 +57,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel_1080x1350.jpg",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 450981
+      "size_bytes": 450972
     },
     {
       "formato": "carrusel",
@@ -84,6 +84,6 @@
       "size_bytes": 445789
     }
   ],
-  "generated_at": "2026-05-19T14:53:39",
+  "generated_at": "2026-05-19T14:55:29",
   "motor_version": "v2"
 }
