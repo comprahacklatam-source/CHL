@@ -1,0 +1,75 @@
+{
+  "product": {
+    "product_key": "exito:portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-103253633-mp",
+    "title": "Portátil Lenovo V14 G4 Ryzen 5 7520U 16Gb Ram 512Gb Ssd 14 Pulgadas Fhd",
+    "canonical_title": "portatil lenovo v14 g4 ryzen 5 7520u 16gb ram 512gb ssd 14 pulgadas fhd",
+    "source": "exito",
+    "url": "https://www.exito.com/portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-103253633-mp/p",
+    "image_url": "https://exitocol.vteximg.com.br/arquivos/ids/32836310/portatil-lenovo-v14-g4-ryzen-5-7520u-16gb-ram-512gb-ssd-14-pulgadas-fhd.jpg?v=639095567616600000",
+    "category": "computing",
+    "price": 1646900.0,
+    "reference_price": 4798900.0,
+    "discount_pct": 65.7,
+    "savings": 3152000.0,
+    "score": 0.613,
+    "seller_name": "tecnomarket ink",
+    "seller_rating": 4.6
+  },
+  "caption": "🚨 Precio de liquidación: 66% OFF real\n\n#COMPUTING #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🚨 Precio de liquidación: 66% OFF real",
+  "veredicto": "🚨 Precio de liquidación: 66% OFF real",
+  "hashtags": [
+    "#COMPUTING",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "#",
+  "tracking_url": "#",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 512696
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 332287
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 765554
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 246259
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-28\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    }
+  ],
+  "generated_at": "2026-05-28T09:35:18",
+  "motor_version": "v2"
+}

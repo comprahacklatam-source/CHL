@@ -2,30 +2,32 @@
   "product": {
     "product_key": "mock:laptop-001",
     "title": "Laptop 14 pulgadas 16GB RAM SSD",
-    "canonical_title": "Laptop 14 pulgadas 16GB RAM SSD",
+    "canonical_title": "laptop 14 pulgadas 16gb ram ssd 512gb",
     "source": "mock",
     "url": "https://example.test/laptop-001",
     "image_url": "https://example.test/laptop.jpg",
     "category": "other",
     "price": 1899000.0,
     "reference_price": 2786500.0,
-    "discount_pct": 31.8,
+    "discount_pct": 31.9,
     "savings": 887500.0,
     "score": 0.946,
     "seller_name": "Tienda Oficial",
     "seller_rating": 4.8
   },
-  "caption": "Mira esta tremenda oferta encontrada por CompraHack.",
-  "hook": "¡OFERTAZA CONFIRMADA!",
-  "veredicto": "",
+  "caption": "🔥 32% OFF validado en Mock por Kiko.\n\n#OTHER #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🔥 32% OFF validado en Mock por Kiko.",
+  "veredicto": "🔥 32% OFF validado en Mock por Kiko.",
   "hashtags": [
-    "Ahorro",
-    "Descuento",
-    "CompraHack"
+    "#OTHER",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
   ],
   "call_to_action": "Ver Oferta →",
-  "affiliate_url": "https://ejemplo.com/tu-link-afiliado",
-  "tracking_url": "https://ejemplo.com/tu-link-afiliado",
+  "affiliate_url": "https://example.test/laptop-001",
+  "tracking_url": "http://localhost:8000/r/74d02faa5fcc4143a73391009b4a9c70",
   "assets": [
     {
       "formato": "feed",
@@ -33,7 +35,15 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\feed_1080x1080.jpg",
       "width": 1080,
       "height": 1080,
-      "size_bytes": 373633
+      "size_bytes": 374354
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 403496
     },
     {
       "formato": "historia",
@@ -41,15 +51,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\historia_1080x1920.jpg",
       "width": 1080,
       "height": 1920,
-      "size_bytes": 609153
-    },
-    {
-      "formato": "reel",
-      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\reel_1080x1920.jpg",
-      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\reel_1080x1920.jpg",
-      "width": 1080,
-      "height": 1920,
-      "size_bytes": 585759
+      "size_bytes": 635287
     },
     {
       "formato": "carrusel",
@@ -57,7 +59,23 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel_1080x1350.jpg",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 450972
+      "size_bytes": 459545
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 194819
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-19\\laptop-001\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 609072
     },
     {
       "formato": "carrusel",
@@ -65,7 +83,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_01.jpg",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 451648
+      "size_bytes": 460112
     },
     {
       "formato": "carrusel",
@@ -73,7 +91,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_02.jpg",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 449742
+      "size_bytes": 490685
     },
     {
       "formato": "carrusel",
@@ -81,9 +99,9 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-19\\laptop-001\\carrusel\\slide_03.jpg",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 445789
+      "size_bytes": 457882
     }
   ],
-  "generated_at": "2026-05-19T14:55:29",
+  "generated_at": "2026-05-19T16:03:12",
   "motor_version": "v2"
 }

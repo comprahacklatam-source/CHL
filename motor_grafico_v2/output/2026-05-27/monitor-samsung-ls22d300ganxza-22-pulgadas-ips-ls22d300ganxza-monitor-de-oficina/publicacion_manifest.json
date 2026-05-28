@@ -1,0 +1,107 @@
+{
+  "product": {
+    "product_key": "exito:monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina-negro-3214068",
+    "title": "Monitor SAMSUNG LS22D300GANXZA 22 pulgadas IPS LS22D300GANXZA Monitor de Oficina",
+    "canonical_title": "monitor samsung ls22d300ganxza 22 pulgadas ips ls22d300ganxza monitor de oficina negro",
+    "source": "exito",
+    "url": "https://www.exito.com/monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina-negro-3214068/p",
+    "image_url": "https://exitocol.vteximg.com.br/arquivos/ids/31272163/Monitor-SAMSUNG-LS22D300GANXZA-22-pulgadas-IPS-LS22D300GANXZA-Monitor-de-Oficina-NEGRO-3707480_a.jpg?v=638960682372700000",
+    "category": "computing",
+    "price": 289990.0,
+    "reference_price": 899990.0,
+    "discount_pct": 67.8,
+    "savings": 610000.0,
+    "score": 0.613,
+    "seller_name": "one pc store",
+    "seller_rating": 4.6
+  },
+  "caption": "🚨 Precio de liquidación: 68% OFF real\n\n#COMPUTING #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🚨 Precio de liquidación: 68% OFF real",
+  "veredicto": "🚨 Precio de liquidación: 68% OFF real",
+  "hashtags": [
+    "#COMPUTING",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://www.exito.com/monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina-negro-3214068/p?utm_source=clickam&utm_medium=referral&utm_campaign=kat104385/3486247",
+  "tracking_url": "http://localhost:8000/r/2d541c68afff42c6a47f8069e8108366",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 333583
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 205894
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 533326
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 304992
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 193901
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 305341
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 182660
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\monitor-samsung-ls22d300ganxza-22-pulgadas-ips-ls22d300ganxza-monitor-de-oficina\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 170924
+    }
+  ],
+  "generated_at": "2026-05-27T11:55:35",
+  "motor_version": "v2"
+}

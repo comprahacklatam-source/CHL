@@ -1,0 +1,107 @@
+{
+  "product": {
+    "product_key": "exito:soporte-fijo-tv-32-a-60-26707",
+    "title": "Soporte TV Fijo de 32 a 60 SF60",
+    "canonical_title": "soporte tv fijo de 32 a 60 sf60 soportv",
+    "source": "exito",
+    "url": "https://tienda.exito.com/soporte-fijo-tv-32-a-60-26707/p",
+    "image_url": "https://exitocol.vteximg.com.br/arquivos/ids/18155477/SOPORTE-FIJO-TV-32-A-60-1624452_a.jpg?v=638980707017270000",
+    "category": "televisions",
+    "price": 49000.0,
+    "reference_price": 70000.0,
+    "discount_pct": 30.0,
+    "savings": 21000.0,
+    "score": 0.7587,
+    "seller_name": "tc tecnology",
+    "seller_rating": 4.6
+  },
+  "caption": "🛡️ Oferta base verificada en Exito\n\n#TELEVISIONS #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🛡️ Oferta base verificada en Exito",
+  "veredicto": "🛡️ Oferta base verificada en Exito",
+  "hashtags": [
+    "#TELEVISIONS",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://tienda.exito.com/soporte-fijo-tv-32-a-60-26707/p?utm_source=clickam&utm_medium=referral&utm_campaign=kat104385/3486247",
+  "tracking_url": "http://localhost:8000/r/178b0d33fbdb4136b88ad1b09f00a26c",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 233645
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 166746
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 353297
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 202409
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 164186
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 203710
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 112310
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\soporte-fijo-tv-32-a-60-26707\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 130012
+    }
+  ],
+  "generated_at": "2026-05-20T13:26:51",
+  "motor_version": "v2"
+}

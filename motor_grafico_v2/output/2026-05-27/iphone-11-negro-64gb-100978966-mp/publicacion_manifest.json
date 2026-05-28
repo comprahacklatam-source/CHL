@@ -1,0 +1,107 @@
+{
+  "product": {
+    "product_key": "exito:iphone-11-negro-64gb-100978966-mp",
+    "title": "Iphone 11 64Gb Negro",
+    "canonical_title": "iphone 11 64gb negro",
+    "source": "exito",
+    "url": "https://www.exito.com/iphone-11-negro-64gb-100978966-mp/p",
+    "image_url": "https://exitocol.vteximg.com.br/arquivos/ids/32258171/iphone-11-64gb-negro.jpg?v=639041072136770000",
+    "category": "smartphones",
+    "price": 949900.0,
+    "reference_price": 2399900.0,
+    "discount_pct": 60.4,
+    "savings": 1450000.0,
+    "score": 0.613,
+    "seller_name": "celucambio",
+    "seller_rating": 4.6
+  },
+  "caption": "🚨 Precio de liquidación: 60% OFF real\n\n#SMARTPHONES #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🚨 Precio de liquidación: 60% OFF real",
+  "veredicto": "🚨 Precio de liquidación: 60% OFF real",
+  "hashtags": [
+    "#SMARTPHONES",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://www.exito.com/iphone-11-negro-64gb-100978966-mp/p?utm_source=clickam&utm_medium=referral&utm_campaign=kat104385/3486247",
+  "tracking_url": "http://localhost:8000/r/cfe474a6dd894ac18e2b70453a49d612",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 306007
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 202152
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 501428
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 306090
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 163238
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 306543
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 138894
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-27\\iphone-11-negro-64gb-100978966-mp\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 173608
+    }
+  ],
+  "generated_at": "2026-05-27T11:52:08",
+  "motor_version": "v2"
+}

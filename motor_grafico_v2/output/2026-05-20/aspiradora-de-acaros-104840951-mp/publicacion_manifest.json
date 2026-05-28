@@ -1,0 +1,107 @@
+{
+  "product": {
+    "product_key": "carulla:aspiradora-de-acaros-104840951-mp",
+    "title": "Aspiradora De Acaros",
+    "canonical_title": "aspiradora de acaros",
+    "source": "carulla",
+    "url": "https://www.carulla.com/aspiradora-de-acaros-104840951-mp/p",
+    "image_url": "https://carulla.vteximg.com.br/arquivos/ids/24148293/aspiradora-de-acaros.jpg?v=639002884953930000",
+    "category": "other",
+    "price": 60000.0,
+    "reference_price": 150000.0,
+    "discount_pct": 60.0,
+    "savings": 90000.0,
+    "score": 0.613,
+    "seller_name": "konnen service",
+    "seller_rating": 4.6
+  },
+  "caption": "🚨 Precio de liquidación: 60% OFF real\n\n#OTHER #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🚨 Precio de liquidación: 60% OFF real",
+  "veredicto": "🚨 Precio de liquidación: 60% OFF real",
+  "hashtags": [
+    "#OTHER",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://www.carulla.com/aspiradora-de-acaros-104840951-mp/p?utm_source=clickam&utm_medium=referral&utm_campaign=kat104385/3486281",
+  "tracking_url": "http://localhost:8000/r/0415559681f04d8e93d90138b9c818f1",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 283939
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 190862
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 443255
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 304389
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 168643
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 304800
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 125692
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\aspiradora-de-acaros-104840951-mp\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 162059
+    }
+  ],
+  "generated_at": "2026-05-20T14:43:18",
+  "motor_version": "v2"
+}

@@ -1,0 +1,75 @@
+{
+  "product": {
+    "product_key": "carulla:huevo-gallina-feliz-rojo-aa-x-18-unidades-210517",
+    "title": "Huevos AA GALLINA FELIZ rojo (18 und)",
+    "canonical_title": "huevos aa gallina feliz rojo 18 und",
+    "source": "carulla",
+    "url": "https://secure.carulla.com/huevo-gallina-feliz-rojo-aa-x-18-unidades-210517/p",
+    "image_url": "https://carulla.vteximg.com.br/arquivos/ids/24167171/Huevo-Gallina-Feliz-Rojo-Aa-X-18-Unidades-279373_a.jpg?v=639005634554400000",
+    "category": "other",
+    "price": 22100.0,
+    "reference_price": 122778.0,
+    "discount_pct": 82.0,
+    "savings": 100678.0,
+    "score": 0.913,
+    "seller_name": "carulla",
+    "seller_rating": 4.6
+  },
+  "caption": "🔥 82% OFF validado en Carulla por Kiko.\n\n#OTHER #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🔥 82% OFF validado en Carulla por Kiko.",
+  "veredicto": "🔥 82% OFF validado en Carulla por Kiko.",
+  "hashtags": [
+    "#OTHER",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "#",
+  "tracking_url": "#",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 445200
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 267812
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 616174
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 249903
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-20\\huevo-gallina-feliz-rojo-aa-x-18-unidades-210517\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    }
+  ],
+  "generated_at": "2026-05-20T12:30:40",
+  "motor_version": "v2"
+}
