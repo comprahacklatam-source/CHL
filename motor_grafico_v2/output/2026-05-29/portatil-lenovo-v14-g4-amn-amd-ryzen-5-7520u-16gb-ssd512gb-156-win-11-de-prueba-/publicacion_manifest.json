@@ -43,7 +43,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-29\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\telegram_1200x630.jpg",
       "width": 1200,
       "height": 630,
-      "size_bytes": 332287
+      "size_bytes": 391749
     },
     {
       "formato": "historia",
@@ -70,6 +70,6 @@
       "size_bytes": 49358
     }
   ],
-  "generated_at": "2026-05-29T04:48:41",
+  "generated_at": "2026-05-29T04:57:44",
   "motor_version": "v2"
 }
