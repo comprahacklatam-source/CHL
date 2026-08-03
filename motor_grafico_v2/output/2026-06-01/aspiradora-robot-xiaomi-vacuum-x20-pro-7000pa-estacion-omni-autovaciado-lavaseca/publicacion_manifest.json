@@ -1,0 +1,107 @@
+{
+  "product": {
+    "product_key": "carulla:aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca-mopas-giratorias-104879721-mp",
+    "title": "Aspiradora Robot Xiaomi Vacuum X20 Pro 7000Pa Estación Omni Autovaciado Lava/Seca Mopas Giratorias",
+    "canonical_title": "aspiradora robot xiaomi vacuum x20 pro 7000pa estacion omni autovaciado lava seca mopas giratorias",
+    "source": "carulla",
+    "url": "https://www.carulla.com/aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca-mopas-giratorias-104879721-mp/p",
+    "image_url": "https://carulla.vteximg.com.br/arquivos/ids/24327746/aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca-mopas-giratorias.jpg?v=639045229582430000",
+    "category": "other",
+    "price": 2019900.0,
+    "reference_price": 2999900.0,
+    "discount_pct": 32.7,
+    "savings": 980000.0,
+    "score": 0.6778,
+    "seller_name": "compra online",
+    "seller_rating": 4.6
+  },
+  "caption": "🛡️ Oferta base verificada en Carulla\n\n#OTHER #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🛡️ Oferta base verificada en Carulla",
+  "veredicto": "🛡️ Oferta base verificada en Carulla",
+  "hashtags": [
+    "#OTHER",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://www.carulla.com/aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca-mopas-giratorias-104879721-mp/p?utm_source=clickam&utm_medium=referral&utm_campaign=kat104385/3486281",
+  "tracking_url": "http://localhost:8000/r/0d998e39ccff4996b2abbf506650e6ec",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 257832
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 211121
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 303428
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 259862
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 179302
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 260270
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 193093
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\aspiradora-robot-xiaomi-vacuum-x20-pro-7000pa-estacion-omni-autovaciado-lavaseca\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 175674
+    }
+  ],
+  "generated_at": "2026-06-01T14:04:42",
+  "motor_version": "v2"
+}

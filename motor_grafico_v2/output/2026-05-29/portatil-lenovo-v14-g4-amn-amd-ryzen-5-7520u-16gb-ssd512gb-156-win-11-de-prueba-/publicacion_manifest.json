@@ -43,7 +43,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-29\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\telegram_1200x630.jpg",
       "width": 1200,
       "height": 630,
-      "size_bytes": 391749
+      "size_bytes": 369607
     },
     {
       "formato": "historia",
@@ -51,7 +51,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-29\\portatil-lenovo-v14-g4-amn-amd-ryzen-5-7520u-16gb-ssd512gb-156-win-11-de-prueba-\\historia_1080x1920.jpg",
       "width": 1080,
       "height": 1920,
-      "size_bytes": 635015
+      "size_bytes": 619539
     },
     {
       "formato": "whatsapp",
@@ -70,6 +70,6 @@
       "size_bytes": 49358
     }
   ],
-  "generated_at": "2026-05-29T04:57:44",
+  "generated_at": "2026-05-29T05:16:33",
   "motor_version": "v2"
 }

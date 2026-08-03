@@ -1,0 +1,107 @@
+{
+  "product": {
+    "product_key": "homecenter:149157489",
+    "title": "Televisor 55 Pulgadas UHD Un55u8000fkxzl",
+    "canonical_title": "televisor 55 pulgadas uhd un55u8000fkxzl",
+    "source": "homecenter",
+    "url": "https://homecenter.falabella.com.co/homecenter-co/product/149157488/televisor-55-pulgadas-uhd-un55u8000fkxzl-samsung/149157489?exp=homecenter",
+    "image_url": "https://media.falabella.com.co/sodimacCO/3021837_01/width=170,height=170,quality=70,format=webp,fit=pad",
+    "category": "other",
+    "price": 1649900.0,
+    "reference_price": 3599900.0,
+    "discount_pct": 54.2,
+    "savings": 1950000.0,
+    "score": 0.6334,
+    "seller_name": "Homecenter",
+    "seller_rating": 4.3
+  },
+  "caption": "🔥 54% OFF validado en Homecenter por Kiko.\n\n#OTHER #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🔥 54% OFF validado en Homecenter por Kiko.",
+  "veredicto": "🔥 54% OFF validado en Homecenter por Kiko.",
+  "hashtags": [
+    "#OTHER",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://homecenter.falabella.com.co/homecenter-co/product/149157488/televisor-55-pulgadas-uhd-un55u8000fkxzl-samsung/149157489?exp=homecenter",
+  "tracking_url": "http://localhost:8000/r/0526822ff5774f4085fe375e7cb1cc4b",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 283768
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 193394
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 214757
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 328423
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 185342
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 328876
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 160459
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\HackLatam\\motor_grafico_v2\\output\\2026-08-03\\149157489\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-08-03\\149157489\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 173634
+    }
+  ],
+  "generated_at": "2026-08-03T07:21:15",
+  "motor_version": "v2"
+}

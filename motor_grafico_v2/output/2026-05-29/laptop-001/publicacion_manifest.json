@@ -27,7 +27,7 @@
   ],
   "call_to_action": "Ver Oferta →",
   "affiliate_url": "https://example.test/laptop-001",
-  "tracking_url": "http://localhost:8000/r/5ff36d7663ae466db7dede7d2f6310a9",
+  "tracking_url": "http://localhost:8000/r/1a619e1d144b49b89a17e183c68a61fb",
   "assets": [
     {
       "formato": "feed",
@@ -43,7 +43,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-29\\laptop-001\\telegram_1200x630.jpg",
       "width": 1200,
       "height": 630,
-      "size_bytes": 185320
+      "size_bytes": 209429
     },
     {
       "formato": "historia",
@@ -51,7 +51,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-29\\laptop-001\\historia_1080x1920.jpg",
       "width": 1080,
       "height": 1920,
-      "size_bytes": 163199
+      "size_bytes": 181970
     },
     {
       "formato": "carrusel",
@@ -83,7 +83,7 @@
       "path_relative": "motor_grafico_v2\\output\\2026-05-29\\laptop-001\\carrusel\\slide_01.jpg",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 245352
+      "size_bytes": 245305
     },
     {
       "formato": "carrusel",
@@ -102,6 +102,6 @@
       "size_bytes": 171967
     }
   ],
-  "generated_at": "2026-05-29T04:36:15",
+  "generated_at": "2026-05-29T05:56:35",
   "motor_version": "v2"
 }

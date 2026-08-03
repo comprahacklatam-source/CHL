@@ -1,0 +1,107 @@
+{
+  "product": {
+    "product_key": "mock:laptop-001",
+    "title": "Laptop 14 pulgadas 16GB RAM SSD",
+    "canonical_title": "laptop 14 pulgadas 16gb ram ssd 512gb",
+    "source": "mock",
+    "url": "https://example.test/laptop-001",
+    "image_url": "https://example.test/laptop.jpg",
+    "category": "other",
+    "price": 1199000.0,
+    "reference_price": 2799000.0,
+    "discount_pct": 57.2,
+    "savings": 1600000.0,
+    "score": 0.946,
+    "seller_name": "Tienda Oficial",
+    "seller_rating": 4.8
+  },
+  "caption": "🔥 57% OFF validado en Mock por Kiko.\n\n#OTHER #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🔥 57% OFF validado en Mock por Kiko.",
+  "veredicto": "🔥 57% OFF validado en Mock por Kiko.",
+  "hashtags": [
+    "#OTHER",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://example.test/laptop-001",
+  "tracking_url": "http://localhost:8000/r/57b2f95b2ea4491e9a4b7cbf7bd45540",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 262633
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 209429
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 181970
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 244889
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 154036
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 245349
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 158380
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-06-01\\laptop-001\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-06-01\\laptop-001\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 171967
+    }
+  ],
+  "generated_at": "2026-06-01T08:51:31",
+  "motor_version": "v2"
+}

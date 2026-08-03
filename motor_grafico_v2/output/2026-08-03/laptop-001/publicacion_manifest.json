@@ -1,0 +1,34 @@
+{
+  "product": {
+    "product_key": "mock:laptop-001",
+    "title": "Laptop 14 pulgadas 16GB RAM SSD",
+    "canonical_title": "laptop 14 pulgadas 16gb ram ssd 512gb",
+    "source": "mock",
+    "url": "https://example.test/laptop-001",
+    "image_url": "https://example.test/laptop.jpg",
+    "category": "computing",
+    "price": 1199000.0,
+    "reference_price": 2799000.0,
+    "discount_pct": 57.2,
+    "savings": 1600000.0,
+    "score": 1.0,
+    "seller_name": "Tienda Oficial",
+    "seller_rating": 4.8
+  },
+  "caption": "🔥 57% OFF validado en Mock por Kiko.\n\n#Computadores #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🔥 57% OFF validado en Mock por Kiko.",
+  "veredicto": "🔥 57% OFF validado en Mock por Kiko.",
+  "hashtags": [
+    "#Computadores",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://example.test/laptop-001",
+  "tracking_url": "http://localhost:8000/r/76d5a2884ecb40ac82d32cbce4884273",
+  "assets": [],
+  "generated_at": "2026-08-03T15:00:22",
+  "motor_version": "v2"
+}

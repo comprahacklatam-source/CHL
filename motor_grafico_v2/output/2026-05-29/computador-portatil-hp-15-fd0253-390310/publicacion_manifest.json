@@ -1,0 +1,107 @@
+{
+  "product": {
+    "product_key": "jumbo:computador-portatil-hp-15-fd0253-390310",
+    "title": "Portatil HP 15-FD0253 CI5 8GB 512GB + Morral y Mouse",
+    "canonical_title": "portatil hp 15-fd0253 ci5 8gb 512gb morral y mouse",
+    "source": "jumbo",
+    "url": "https://www.tiendasjumbo.co/computador-portatil-hp-15-fd0253-390310/p",
+    "image_url": "https://jumbocolombiaio.vteximg.com.br/arquivos/ids/870232/198990787411-1.jpg?v=638972653817400000",
+    "category": "computing",
+    "price": 2099000.0,
+    "reference_price": 3899000.0,
+    "discount_pct": 46.2,
+    "savings": 1800000.0,
+    "score": 0.913,
+    "seller_name": "Cencosud - Colombia",
+    "seller_rating": 4.6
+  },
+  "caption": "🔥 46% OFF validado en Jumbo por Kiko.\n\n#COMPUTING #CompraHack #HackReal #OfertasColombia #CapibaraTech\n🐾 Ir al precio →",
+  "hook": "🔥 46% OFF validado en Jumbo por Kiko.",
+  "veredicto": "🔥 46% OFF validado en Jumbo por Kiko.",
+  "hashtags": [
+    "#COMPUTING",
+    "#CompraHack",
+    "#HackReal",
+    "#OfertasColombia",
+    "#CapibaraTech"
+  ],
+  "call_to_action": "Ver Oferta →",
+  "affiliate_url": "https://www.tiendasjumbo.co/computador-portatil-hp-15-fd0253-390310/p",
+  "tracking_url": "http://localhost:8000/r/b9011ce636f54570845b9282a14d89d6",
+  "assets": [
+    {
+      "formato": "feed",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\feed_1080x1080.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\feed_1080x1080.jpg",
+      "width": 1080,
+      "height": 1080,
+      "size_bytes": 358079
+    },
+    {
+      "formato": "telegram",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\telegram_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\telegram_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 332479
+    },
+    {
+      "formato": "historia",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\historia_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\historia_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 598587
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\carrusel_1080x1350.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\carrusel_1080x1350.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 510046
+    },
+    {
+      "formato": "whatsapp",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\whatsapp_1200x630.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\whatsapp_1200x630.jpg",
+      "width": 1200,
+      "height": 630,
+      "size_bytes": 231096
+    },
+    {
+      "formato": "reel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\reel_1080x1920.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\reel_1080x1920.jpg",
+      "width": 1080,
+      "height": 1920,
+      "size_bytes": 49358
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\carrusel\\slide_01.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\carrusel\\slide_01.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 510390
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\carrusel\\slide_02.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\carrusel\\slide_02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 171084
+    },
+    {
+      "formato": "carrusel",
+      "path": "C:\\Users\\erik_\\Downloads\\especificaci-n-t-cnica-sistema-autom\\motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\carrusel\\slide_03.jpg",
+      "path_relative": "motor_grafico_v2\\output\\2026-05-29\\computador-portatil-hp-15-fd0253-390310\\carrusel\\slide_03.jpg",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 181006
+    }
+  ],
+  "generated_at": "2026-05-29T08:11:30",
+  "motor_version": "v2"
+}
